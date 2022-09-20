@@ -1,0 +1,26 @@
+.conteiner-post-destaque {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+}
+
+.conteiner-post-destaque div img {
+  width: 45vw;
+
+  border-radius: 6px;
+}
+
+.conteiner-post-destaque div:nth-child(2) {
+  max-width: 45vw;
+}
+.post-destaque-date {
+  font-size: 0.9rem;
+}
+
+.post-destaque-date-tittle {
+  margin-top: 20px;
+}
+
+.post-destaque-descricao {
+  margin-top: 20px;
+}

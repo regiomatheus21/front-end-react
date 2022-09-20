@@ -1,0 +1,19 @@
+/*Usado para zerar as margins de todos os elementos que tiver css*/
+/*espaçamentos estão usando flebox*/
+* {
+  padding: 0px;
+  margin: 0px;
+  text-decoration: none;
+}
+.navbar {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin: 20px 0px;
+}
+.navbar a {
+  margin: 0px 10px;
+}
+.logo {
+  font-size: 1.5rem;
+}

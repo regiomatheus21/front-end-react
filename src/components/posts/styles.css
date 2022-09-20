@@ -1,0 +1,29 @@
+.conteiner-post {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  flex-direction: column;
+}
+
+.conteiner-post div img {
+  width: 41vw;
+  border-radius: 6px;
+  height: 17vw;
+}
+.conteiner-post div:nth-child(2) {
+  max-width: 45vw;
+}
+
+.post-date {
+  font-size: 0.9rem;
+  margin-top: 5px;
+}
+
+.post-date-tittle {
+  margin-top: 10px;
+}
+
+.post-descricao {
+  margin-top: 10px;
+  margin-bottom: 60px;
+}

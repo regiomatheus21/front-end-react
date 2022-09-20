@@ -1,0 +1,20 @@
+.Autor-descricao-post-destaque {
+  display: flex;
+  margin-top: 20px;
+}
+
+.autor-image {
+  max-width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.nome-autor {
+  margin: 0px 0px 0.3px;
+  margin-left: 10px;
+}
+
+.funcao-autor {
+  margin-left: 10px;
+}
